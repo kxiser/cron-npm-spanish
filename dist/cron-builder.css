@@ -1,0 +1,56 @@
+
+/*! CSS Used from: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css */
+a{background-color:transparent;}
+a:active,a:hover{outline:0;}
+input,select{color:inherit;font:inherit;margin:0;}
+select{text-transform:none;}
+html input[disabled]{cursor:default;}
+input::-moz-focus-inner{border:0;padding:0;}
+input{line-height:normal;}
+input[type=radio]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;}
+@media print{
+*,:after,:before{color:#000!important;text-shadow:none!important;background:0 0!important;-webkit-box-shadow:none!important;box-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+input,select{font-family:inherit;font-size:inherit;line-height:inherit;}
+a{color:#000;text-decoration:none; font-weight: bold;}
+a:focus,a:hover{color:#23527c;text-decoration:underline;}
+a:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+ul{margin-top:0;margin-bottom:10px;}
+.row{/*margin-right:-15px;margin-left:-15px;*/}
+.col-md-6{position:relative;min-height:1px;padding-right:15px;}
+@media (min-width:992px){
+.col-md-6{float:left;}
+.col-md-6{width:50%;}
+.col-md-offset-2{/*margin-left:16.66666667%;*/}
+}
+input[type=radio]{margin:4px 0 0;margin-top:1px\9;line-height:normal;}
+input[type=radio]:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+.nav{padding-left:0;margin-bottom:0;list-style:none;}
+.nav>li{position:relative;display:block;}
+.nav>li>a{position:relative;display:block;padding:10px 15px;}
+.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee;}
+.nav-tabs{border-bottom:1px solid #ddd;}
+.nav-tabs>li{float:left;margin-bottom:-1px;}
+.nav-tabs>li>a{margin-right:2px;line-height:1.42857143;border:1px solid transparent;border-radius:4px 4px 0 0;}
+.nav-tabs>li>a:hover{border-color:#eee #eee #ddd;}
+.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover{color:#555;cursor:default;background-color:#fff;border:1px solid #ddd;border-bottom-color:transparent;}
+.tab-content>.tab-pane{display:none;}
+.tab-content>.active{display:block;}
+.well{min-height:20px;padding: 5px 0px 0px 0px;margin-bottom:20px;border:1px solid #e3e3e3;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);box-shadow:inset 0 1px 1px rgba(0,0,0,.05);}
+.nav:after,.nav:before,.row:after,.row:before{display:table;content:" ";}
+.nav:after,.row:after{clear:both;}
+/*! CSS Used from: https://sojinantony01.github.io/react-cron-generator/static/css/main.7a9d5ac0.chunk.css */
+.cron_builder_bordering{border:1px solid #ddd;border-top:none;text-align:left;padding:10px;}
+.cron_builder_bordering input{width:100px;margin-right:10px;margin-left:10px;border:1px solid #ddd;border-radius:4px;outline:none;padding-left:5px;cursor:pointer;}
+.cron-builder-bg{background-color:#000;color:#fff;text-align:center;margin-bottom:4px; font-weight: bold; border-radius: 4px;}
+.cron_builder_bordering select{background-color:#fff;width:75px;cursor:pointer;padding:4px 0;border-radius:4px;}
+.cron_builder_bordering select option:hover{background-color:#000;}
+.well-small input{width:auto!important;}
+.cron_builder_bordering input[type=radio]{margin-top:0;vertical-align:middle;}
+.cron_builder{padding:5px;width:100%;}
+.nav li{cursor:pointer;}
+/*! CSS Used from: https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css */
+/*! CSS Used fontfaces */
